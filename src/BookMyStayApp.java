@@ -47,12 +47,12 @@
 
             System.out.println("===== Hotel Booking System =====");
 
-            // Create room objects (polymorphism)
+           
             Room single = new SingleRoom();
             Room doubleRoom = new DoubleRoom();
             Room suite = new SuiteRoom();
 
-            // Availability stored using simple variables
+        
             int singleAvailable = 5;
             int doubleAvailable = 3;
             int suiteAvailable = 2;
