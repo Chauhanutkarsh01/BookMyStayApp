@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/RA2411026010645.iml" filepath="$PROJECT_DIR$/RA2411026010645.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/B1P24_RA2411026010645.iml" filepath="$PROJECT_DIR$/B1P24_RA2411026010645.iml" />
+>>>>>>> 41ce4ec (Base application setup)
     </modules>
   </component>
 </project>
